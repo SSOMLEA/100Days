@@ -1,4 +1,5 @@
 #not functioning - needs checks
+#why find_highest_bidder is not working
 import action_program_with_lists_and_dictionaries_logo
 from replit import clear
 print(action_program_with_lists_and_dictionaries_logo.logo)
